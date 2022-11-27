@@ -1,6 +1,6 @@
 +++
 title = "Reportage Berufsfeuerwehr Bern"
-draft = true
+draft = false
 +++
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
