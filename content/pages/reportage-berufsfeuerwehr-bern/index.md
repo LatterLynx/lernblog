@@ -1,6 +1,6 @@
 +++
 title = "Reportage Berufsfeuerwehr Bern"
-draft = false
+draft = true
 +++
 # Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Bern
 
