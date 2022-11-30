@@ -4,7 +4,15 @@ draft = false
 +++
 Eine Reportage von Linus Kradolfer und Fabrice Bouquet
 
-##### *Die Berufsfeuerwehr Bern löscht nicht nur Brände. Diese machen nur ca. 10% der Einsätze der Berufsfeuerwehr aus. Die Berufsfeuerwehrleute sind jedoch nicht ständig im Einsatz. Um zu erfahren, was die Berufsfeuerwehrleute ausserhalb von Einsätzen machen, haben wir die Berufsfeuerwehr Bern besucht.*
+<!--StartFragment-->
+
+`{{<lead>}}`\
+Die Berufsfeuerwehr Bern löscht nicht nur Brände. Diese machen nur ca. 10% der Einsätze der Berufsfeuerwehr aus. Die Berufsfeuerwehrleute sind jedoch nicht ständig im Einsatz. Um zu erfahren, was die Berufsfeuerwehrleute ausserhalb von Einsätzen machen, haben wir die Berufsfeuerwehr Bern besucht.\
+`{{</lead>}}`
+
+
+
+<!--EndFragment-->
 
 ![Blick in die lange Fahrzeughall mit dem Grosslöschfahrzeug mit dem 10'000 Liter Tank im Vordergrund. (aufgenommen von Fabrice Bouquet)](img_20221021_141129-1-.jpg)
 
@@ -45,3 +53,29 @@ Als Nächstes schauen wir uns das Schlauchlager an. Es befindet sich auf derselb
 Der Raum, in dem die Atemschutzgeräte gelagert werden, besteht aus einem Teil, in dem Wartungen an den Geräten vorgenommen werden, und aus Regalen mit den Atemschutzgeräten. Am hinteren Ende der Regale werden die Pressluftflaschen an Kompressoren angeschlossen und gefüllt. Die Schläuche, mit denen man die Pressluftflaschen befüllt, sehen sehr ähnlich aus wie die, die man zum Befüllen von Pressluftflaschen beim Tauchen benutzt. Im Atemschutzgerätlager ist ein simples, aber dennoch cleveres System im Einsatz, um zu gewährleisten, dass alle Atemschutzgeräte benutzt werden. Dabei wird ein Pfeil am Regal mit den    Atemschutzgeräten entlang verschoben, der anzeigt, welche Geräte benutzt werden müssen. So wird sichergestellt, dass alle Geräte innerhalb eines bestimmten Zeitraums einmal benutzt werden. Somit werden auch allfällige Defekte an den Atemschutzgeräten entdeckt.
 
 ![Das Lager mit der Atemschutzausrüstung. Im Hintergrund unterhalb der Fenster sieht man die Anschlüsse an den Kompressor zum Befüllen der Druckluftflaschen. (aufgenommen von Fabrice Bouquet)](img_20221021_140726-1-.jpg)
+
+**Der Kran – Ein besonderes Fahrzeug** 
+
+Auf dem Rückweg zum Haupteingang laufen wir durch die Haupthalle, wo die Fahrzeuge der Berufsfeuerwehr stehen. «Der Kran ist mein Lieblingsfahrzeug, da er gross und vielseitig einsetzbar ist. Er ist fast wie ein Spielzeug für grosse Jungs», erklärt uns Kevin Nideröst. Genau dieser Kran habe er bei seinem letzten Einsatz eingesetzt. «Mein letzter Einsatz war eine Grosstierrettung. Ein Kalb war in eine Güllegrube gefallen und wir mussten es herausheben», führt Kevin Nideröst aus. «Um das Kalb am Kran zu befestigen, musste ihm zuerst ein sogenanntes Grosstierrettungsnetz angezogen werden. Dazu mussten wir hinab in die Güllegrube steigen. Zum Schutz vor der Gülle und den Gasen in der Güllegrube haben wir Trockentauchanzüge mit Handschuhen und Stiefeln zusätzlich zum Atemschutzgerät getragen», erklärt uns Kevin Nideröst. Mit dieser Schutzausrüstung merke man gar nicht viel von der Gülle. Man wisse zwar, dass man in der Gülle sei, doch man rieche nichts. Als das Rettungsnetz schliesslich befestigt gewesen sei, sei das Kalb mit dem Kran aus der Güllegrube gehoben worden. 
+
+**Allzeit bereit** 
+
+Nach unserem Rundgang führt uns Kevin Nideröst zu einem kleinen Zimmer, wo wir ihm einige Fragen stellen. 
+
+Kevin Nideröst sei gerade aus den Ferien zurückgekommen, deshalb würde er sich über einen Einsatz freuen. Am heutigen Tag sei noch nichts los gewesen, erklärt er uns. Das sei aber nicht immer so. Während manchen Schichten gebe es mehrere Einsätze, unter anderem auch mitten in der Nacht. Diese Schichten seien sehr anstrengend und der freie Tag nach der 24-stündigen Schicht brauche man dann, um sich auszuruhen. Wenn kein Einsatz sei, würden die Berufsfeuerwehrleute auch mal einen Filmabend veranstalten. Natürlich müssten sie aber jederzeit bereit sein auszurücken. 
+
+Ein Berufsfeuerwehrmann braucht viel Wissen und Können, um seinen Beruf ausüben zu können. Ausserdem ist dieser Beruf körperlich anstrengend. Auf die Frage, wie lange man den Beruf ausüben könne, antwortet Kevin Nideröst, dass die meisten Berufsfeuerwehrleute bis zur Pension arbeiten. Die Zukunft werde es zeigen, aber bis jetzt rechne Kevin Nideröst damit, bis zur Pension bei der Berufsfeuerwehr zu arbeiten. «Um fit zu bleiben, haben wir in jeder Schicht eine Stunde bezahlten Sport, die wir nutzen, um entweder in den Fitnessraum der Berufsfeuerwehr zu gehen oder in der Turnhalle Mannschaftssport zu betreiben. Wir sind auch dazu verpflichtet, fit zu sein, um in Einsätzen unsere Arbeit richtig verrichten zu können», erklärt uns Kevin Nideröst.
+
+Als wir Kevin Nideröst fragen, ob er denn mit dem Gebäude der Berufsfeuerwehr zufrieden sei, antwortet er grinsend, dass das Gebäude zuerst noch einige Mängel aufgewiesen habe. So sei zum Beispiel der Ablauf bei der Waschanlage nicht der tiefste Punkt in jener gewesen. Dadurch habe das Wasser nicht zuverlässig ablaufen können. Weiter erklärt er, dass es im Gebäude immer warm sei, da es nach Minergie-Standards gebaut worden sei. Aber jetzt sei er im Großen und Ganzen zufrieden mit der modernen Ausstattung, die das 2014 eingeweihte Gebäude habe. Die Berufsfeuerwehr existiert jedoch schon viel länger. Die erste Vorgängerin der Berufsfeuerwehr der Stadt Bern, das Brandcorps, entstand schon im Jahre 1908. Damals war zwar nur ein Feuerwehrmann beschäftigt, dieser arbeitete jedoch Vollzeit.  Heute ist das Brandcorps ein Teil der Milizfeuerwehr der Stadt Bern, welche die Berufsfeuerwehr bei Bedarf unterstützt. 
+
+Schliesslich kommt unser Besuch bei der Berufsfeuerwehr zu seinem Ende. Kevin Nideröst begleitet uns wieder zum Haupteingang zurück, wo wir unseren Rundgang gestartet haben. Wir verabschieden uns von ihm und verlassen das Gebäude. Reich an Eindrücken und begeistert über die Einblicke in das imposante Gebäude entfernen wir uns von diesem.
+
+<!--StartFragment-->
+
+`{{<box title="`Kevin Niderösts Weg zur Berufsfeuerwehr`">}}`\
+Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. Die Vorhersehbarkeit des Alltags in der Schreinerei ist ihm mit der Zeit zuwider geworden. Als seine Schreinerei eines Tages einen Auftrag für den Bau des neuen Hauptquartiers der Berufsfeuerwehr Bern bekommen hat, hat er vor Ort gearbeitet und ihm ist die Idee gekommen, sich bei der Berufsfeuerwehr zu bewerben.  Einige Zeit später, als ihm der Alltag zu Kopfe gestiegen ist, hat er sich erfolgreich beworben und ist in den Ausbildungsprozess zum Berufsfeuerwehrmann aufgenommen worden. Nach der Zusage hat er die Lastwagenprüfung absolviert, die für Berufsfeuerwehrleute Pflicht ist. Vor seiner Ausbildung zum Berufsfeuerwehrmann ist er nie Teil einer Milizfeuerwehr gewesen, was für ihn kein grosser Nachteil gewesen ist, weil man in der anderthalbjährigen Ausbildung zum Berufsfeuerwehrmann alles Wichtige von Grund auf lernt, daher ist eine Mitgliedschaft in einer Milizfeuerwehr auch kein Kriterium für eine Aufnahme in die Berufsfeuerwehr. Mittlerweile arbeitet Kevin Nideröst seit vier Jahren bei der Berufsfeuerwehr Bern und ist von der Abwechslung im Arbeitsalltag begeistert.\
+`{{</box>}}`
+
+
+
+<!--EndFragment-->
