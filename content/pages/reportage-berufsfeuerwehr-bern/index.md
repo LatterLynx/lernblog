@@ -1,6 +1,6 @@
 +++
-title = "Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Bern2"
-draft = false
+title = "Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Bern-Inhaltsseite"
+draft = true
 image = "img_20221021_141129-1-.jpg"
 +++
 ##### Eine Reportage von Linus Kradolfer und Fabrice Bouquet
