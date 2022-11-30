@@ -62,10 +62,8 @@ Als wir Kevin Nideröst fragen, ob er denn mit dem Gebäude der Berufsfeuerwehr 
 
 Schliesslich kommt unser Besuch bei der Berufsfeuerwehr zu seinem Ende. Kevin Nideröst begleitet uns wieder zum Haupteingang zurück, wo wir unseren Rundgang gestartet haben. Wir verabschieden uns von ihm und verlassen das Gebäude. Reich an Eindrücken und begeistert über die Einblicke in das imposante Gebäude entfernen wir uns von diesem.
 
-<!--StartFragment-->
+
 
 `{{<box title="`**Kevin Niderösts Weg zur Berufsfeuerwehr**`">}}`\
 Kevin Nideröst ist vor seiner Karriere bei der Berufsfeuerwehr Schreiner gewesen. Die Vorhersehbarkeit des Alltags in der Schreinerei ist ihm mit der Zeit zuwider geworden. Als seine Schreinerei eines Tages einen Auftrag für den Bau des neuen Hauptquartiers der Berufsfeuerwehr Bern bekommen hat, hat er vor Ort gearbeitet und ihm ist die Idee gekommen, sich bei der Berufsfeuerwehr zu bewerben.  Einige Zeit später, als ihm der Alltag zu Kopfe gestiegen ist, hat er sich erfolgreich beworben und ist in den Ausbildungsprozess zum Berufsfeuerwehrmann aufgenommen worden. Nach der Zusage hat er die Lastwagenprüfung absolviert, die für Berufsfeuerwehrleute Pflicht ist. Vor seiner Ausbildung zum Berufsfeuerwehrmann ist er nie Teil einer Milizfeuerwehr gewesen, was für ihn kein grosser Nachteil gewesen ist, weil man in der anderthalbjährigen Ausbildung zum Berufsfeuerwehrmann alles Wichtige von Grund auf lernt, daher ist eine Mitgliedschaft in einer Milizfeuerwehr auch kein Kriterium für eine Aufnahme in die Berufsfeuerwehr. Mittlerweile arbeitet Kevin Nideröst seit vier Jahren bei der Berufsfeuerwehr Bern und ist von der Abwechslung im Arbeitsalltag begeistert.\
 `{{</box>}}`
-
-<!--EndFragment-->
