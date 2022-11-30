@@ -11,6 +11,8 @@ draft = false
 An einem regnerischen Freitag, kurz vor zwei Uhr nachmittags, finden wir uns im Berner Forsthaus ein. Wir betreten den Haupteingang der grossen Feuerwehrkaserne. Zuvor haben wir uns für eine kleine Führung durch das Gebäude angemeldet. Mit einem Knopfdruck werden wir mit jemandem verbunden, der sagt, dass uns bald die Tür geöffnet wird. Kurz darauf öffnet ein freundlicher Berufsfeuerwehrmann, der sich als Kevin Nideröst vorstellt, die Eingangstür und begrüsst uns. Um eine andere Tür, die in die Fahrzeughalle führt, zu öffnen, muss er seine Hand an einen Handleser halten.
 
 > **Berufsfeuerwehrmänner sind dazu verpflichtet, fit zu sein.**
+>
+> ***Kevin Nideröst***
 
 **Ein weitgehend autonomer Betrieb** 
 
