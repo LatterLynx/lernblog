@@ -10,6 +10,6 @@ title = "About me"
 url = "/about/"
 
 [[link]]
-title = "Reportage Berufsfeuerwehr Bern"
-url = "https://lkradolfer.netlify.app/reportage-berufsfeuerwehr-bern/"
+url = "https://lkradolfer.netlify.app/was-hinter-den-toren-geschieht-zu-besuch-bei-der-berufsfeuerwehr-bern/"
+title = "Was hinter den Toren geschieht - zu Besuch bei der Berufsfeuerwehr Bern"
 +++
