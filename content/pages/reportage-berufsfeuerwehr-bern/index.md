@@ -1,5 +1,5 @@
 +++
-title = "Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Bern2"
+title = "Was hinter den Toren geschieht – zu Besuch bei der Berufsfeuerwehr Bern1"
 draft = false
 image = "img_20221021_141129-1-.jpg"
 +++
