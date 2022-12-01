@@ -11,11 +11,9 @@ image = "img_20221021_141129-1-.jpg"
 
 <!--StartFragment-->
 
-
-
-`{{<lead>}}`\
-`Ein Lead steht zwischen zwei solchen Blöcken.`\
-`{{</lead>}}`
+{{<lead>}}\
+Ein Lead steht zwischen zwei solchen Blöcken.\
+{{</lead>}}
 
 <!--EndFragment-->
 
